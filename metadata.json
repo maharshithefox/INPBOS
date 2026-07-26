@@ -1,0 +1,6 @@
+{
+  "name": "INPBOS - International Photography Business Operating System",
+  "description": "Comprehensive Business, CRM, Production, Cloud Storage, Finance & Client Portal platform for photography studios and media production companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
